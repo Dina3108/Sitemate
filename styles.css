@@ -195,7 +195,8 @@ footer {
   }
   header nav ul {
     flex-direction: row;
-    gap: 4rem;
+    gap: 2.5
+      rem;
   }
   .search-section {
     margin: var(--spacing-md) var(--spacing-xs);
@@ -237,3 +238,4 @@ footer {
     padding: 0.5rem 0;
   }
 }
+
